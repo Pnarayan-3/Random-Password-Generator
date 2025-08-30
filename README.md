@@ -7,7 +7,11 @@ A simple and interactive Random Password Generator built using HTML, CSS, and Ja
 Features
 
 ---Generate random passwords with one click
+
 ---Choose password length
+
 ---Include/exclude uppercase letters, lowercase letters, numbers, and special characters
+
 ---Copy password to clipboard with a single click
+
 ---Responsive and user-friendly design
